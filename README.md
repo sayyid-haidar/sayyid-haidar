@@ -1,54 +1,92 @@
-# Hello, I'm Sayyid 👋
+<div align="center">
+  
+# 👋 Hello, I'm Sayyid Haidar
+
+**Software Engineer | Computer Vision | IoT Systems**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayyid-haidar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sayyid-haidar.github.io)
+
+</div>
+
+---
 
 ## 🧑‍💻 About Me
 
-I'm a developer passionate about creating clean, efficient solutions with Python. I enjoy building web applications, exploring AI/ML concepts, and constantly learning new technologies.
+Software engineer from **Jakarta, Indonesia** 🇮🇩 — building end-to-end solutions from backend APIs to computer vision pipelines and IoT device integration.
 
 ```python
-developer = {
-    "name": "Sayyid Haidar",
-    "location": "Jakarta, Indonesia",
-    "languages": ["Python", "JavaScript", "TypeScript"],
-    "interests": ["Web Development", "Machine Learning", "Open Source"],
-    "currently_learning": "Advanced Python patterns & AI integration"
-}
+class Developer:
+    def __init__(self):
+        self.name = "Sayyid Haidar"
+        self.focus = ["Backend Systems", "Computer Vision", "IoT Integration"]
+        
+    def say_hi(self):
+        print("Let's build something amazing together 🚀")
+
+me = Developer()
+me.say_hi()
 ```
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-- Python • Django • FastAPI • Flask
-- JavaScript • TypeScript • React • Next.js
-- HTML • CSS • Tailwind CSS
+**Backend**
 
-**Databases & Tools**
-- PostgreSQL • MongoDB • Redis
-- Git • Docker • Linux • AWS
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-**AI/ML Libraries**
-- TensorFlow • PyTorch • Pandas • NumPy • Scikit-learn
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Computer Vision & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+---
+
+## 🌱 Currently Working On
+
+- 🏷️ Building an enhanced fork of [Label Studio](https://github.com/HumanSignal/label-studio) with integrated training features
+- 👁️ YOLO-based object detection pipelines
+- 🔧 Enterprise access control & weighing systems
+- 🔌 MQTT-based edge device communication
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayyid-haidar&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyid-haidar&layout=compact&theme=default&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayyid-haidar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyid-haidar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
-## 🌱 Currently Working On
-
-- Building web applications with Flask & React
-- Learning machine learning fundamentals
-- Contributing to open source projects
-- Improving my system design knowledge
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/sayyid-haidar)
-- 🌐 [Portfolio](https://sayyid-haidar.github.io)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyid-haidar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayyid-haidar&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+
+### 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayyid-haidar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sayyidhaidar_/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sayyid-haidar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
